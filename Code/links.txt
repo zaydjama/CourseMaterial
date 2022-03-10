@@ -1,0 +1,21 @@
+asc 
+
+my dear student's today afternoon at 4:00 PM 
+We will start our first day lecture,to day will be
+introduction and installation of IDE,so every one 
+should take computer and also 
+we will complete csharp progrming basic concepts 
+
+
+thank you 
+
+
+
+visual studio 2022  download
+https://visualstudio.microsoft.com/vs/community/
+
+Reading more 
+https://www.completecsharptutorial.com/basic/
+https://www.guru99.com/c-sharp-tutorial.html
+https://csharp-station.com/Tutorial
+https://learncs.org/
